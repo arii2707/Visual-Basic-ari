@@ -1,3 +1,0 @@
-﻿Compilación iniciada a las 19:32...
-========== Compilación: 0 correcto, 0 erróneo, 1 actualizado, 0 omitido ==========
-========== Compilar completado a las 19:32 y tardó 00,416 segundos ==========
