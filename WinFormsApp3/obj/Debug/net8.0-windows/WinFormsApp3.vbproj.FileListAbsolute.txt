@@ -1,0 +1,17 @@
+C:\Users\Ambi\Documents\Algoritmos y programacion\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.exe
+C:\Users\Ambi\Documents\Algoritmos y programacion\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.deps.json
+C:\Users\Ambi\Documents\Algoritmos y programacion\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.runtimeconfig.json
+C:\Users\Ambi\Documents\Algoritmos y programacion\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.dll
+C:\Users\Ambi\Documents\Algoritmos y programacion\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.pdb
+C:\Users\Ambi\Documents\Algoritmos y programacion\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.Form1.resources
+C:\Users\Ambi\Documents\Algoritmos y programacion\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.Resources.resources
+C:\Users\Ambi\Documents\Algoritmos y programacion\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.vbproj.GenerateResource.cache
+C:\Users\Ambi\Documents\Algoritmos y programacion\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ambi\Documents\Algoritmos y programacion\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+C:\Users\Ambi\Documents\Algoritmos y programacion\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.AssemblyInfo.vb
+C:\Users\Ambi\Documents\Algoritmos y programacion\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.vbproj.CoreCompileInputs.cache
+C:\Users\Ambi\Documents\Algoritmos y programacion\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.dll
+C:\Users\Ambi\Documents\Algoritmos y programacion\WinFormsApp3\obj\Debug\net8.0-windows\refint\WinFormsApp3.dll
+C:\Users\Ambi\Documents\Algoritmos y programacion\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.pdb
+C:\Users\Ambi\Documents\Algoritmos y programacion\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.genruntimeconfig.cache
+C:\Users\Ambi\Documents\Algoritmos y programacion\WinFormsApp3\obj\Debug\net8.0-windows\ref\WinFormsApp3.dll
